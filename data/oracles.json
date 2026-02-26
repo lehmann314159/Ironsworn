@@ -1,0 +1,6 @@
+{
+  "_license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "_source": "Ironsworn SRD by Shawn Tomkin",
+  "_note": "Oracle tables are embedded in Go source at internal/oracle/tables.go",
+  "tables": []
+}

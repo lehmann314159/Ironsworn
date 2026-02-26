@@ -1,0 +1,17 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Binaries
+ironsworn-api
+ironsworn-mcp
+*.exe
+
+# Database
+*.db
+*.db-wal
+*.db-shm
+
+# OS
+.DS_Store
