@@ -1,4 +1,4 @@
-module github.com/ironsworn/ironsworn
+module github.com/ironsworn/ironsworn-backend
 
 go 1.25.0
 

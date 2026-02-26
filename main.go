@@ -5,11 +5,11 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/ironsworn/ironsworn/internal/config"
-	"github.com/ironsworn/ironsworn/internal/engine"
-	"github.com/ironsworn/ironsworn/internal/handler"
-	"github.com/ironsworn/ironsworn/internal/router"
-	"github.com/ironsworn/ironsworn/internal/store"
+	"github.com/ironsworn/ironsworn-backend/internal/config"
+	"github.com/ironsworn/ironsworn-backend/internal/engine"
+	"github.com/ironsworn/ironsworn-backend/internal/handler"
+	"github.com/ironsworn/ironsworn-backend/internal/router"
+	"github.com/ironsworn/ironsworn-backend/internal/store"
 )
 
 func main() {

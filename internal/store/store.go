@@ -3,7 +3,7 @@ package store
 import (
 	"context"
 
-	"github.com/ironsworn/ironsworn/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
 )
 
 // GameStore manages game persistence.

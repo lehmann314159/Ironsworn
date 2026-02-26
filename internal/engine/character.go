@@ -3,7 +3,7 @@ package engine
 import (
 	"fmt"
 
-	"github.com/ironsworn/ironsworn/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
 )
 
 // CreateCharacter validates and creates a new character.

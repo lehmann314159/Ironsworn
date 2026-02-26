@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/ironsworn/ironsworn/internal/gamelog"
-	"github.com/ironsworn/ironsworn/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/gamelog"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
 )
 
 type createGameRequest struct {

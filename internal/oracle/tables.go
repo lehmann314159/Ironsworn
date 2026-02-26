@@ -1,6 +1,6 @@
 package oracle
 
-import "github.com/ironsworn/ironsworn/internal/model"
+import "github.com/ironsworn/ironsworn-backend/internal/model"
 
 // tableOrder preserves display order for ListTables.
 var tableOrder = []string{

@@ -8,11 +8,11 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/ironsworn/ironsworn/internal/engine"
-	"github.com/ironsworn/ironsworn/internal/handler"
-	"github.com/ironsworn/ironsworn/internal/model"
-	"github.com/ironsworn/ironsworn/internal/router"
-	"github.com/ironsworn/ironsworn/internal/store"
+	"github.com/ironsworn/ironsworn-backend/internal/engine"
+	"github.com/ironsworn/ironsworn-backend/internal/handler"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/router"
+	"github.com/ironsworn/ironsworn-backend/internal/store"
 )
 
 func setup(t *testing.T, roller engine.Roller) (*httptest.Server, store.Store) {

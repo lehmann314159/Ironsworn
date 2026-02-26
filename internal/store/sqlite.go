@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ironsworn/ironsworn/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
 
 	_ "modernc.org/sqlite"
 )

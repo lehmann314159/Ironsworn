@@ -5,8 +5,8 @@ import (
 	"crypto/rand"
 	"time"
 
-	"github.com/ironsworn/ironsworn/internal/model"
-	"github.com/ironsworn/ironsworn/internal/store"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/store"
 )
 
 // Logger creates structured, RAG-ready log entries.

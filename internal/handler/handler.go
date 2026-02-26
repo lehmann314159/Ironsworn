@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/ironsworn/ironsworn/internal/engine"
-	"github.com/ironsworn/ironsworn/internal/gamelog"
-	"github.com/ironsworn/ironsworn/internal/store"
+	"github.com/ironsworn/ironsworn-backend/internal/engine"
+	"github.com/ironsworn/ironsworn-backend/internal/gamelog"
+	"github.com/ironsworn/ironsworn-backend/internal/store"
 )
 
 // Handler holds shared dependencies for all HTTP handlers.

@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"math/big"
 
-	"github.com/ironsworn/ironsworn/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
 )
 
 // Roller abstracts dice rolling for testability.

@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/ironsworn/ironsworn/internal/model"
-	"github.com/ironsworn/ironsworn/internal/oracle"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/oracle"
 )
 
 type askOracleRequest struct {

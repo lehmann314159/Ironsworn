@@ -3,7 +3,7 @@ package engine
 import (
 	"fmt"
 
-	"github.com/ironsworn/ironsworn/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
 )
 
 // MoveFunc executes a move, mutating character state and returning a result.

@@ -3,7 +3,7 @@ package engine
 import (
 	"testing"
 
-	"github.com/ironsworn/ironsworn/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
 )
 
 func TestRollAction_StrongHit(t *testing.T) {

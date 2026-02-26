@@ -3,7 +3,7 @@ package engine
 import (
 	"testing"
 
-	"github.com/ironsworn/ironsworn/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
 )
 
 func newTestCharacter() *model.Character {

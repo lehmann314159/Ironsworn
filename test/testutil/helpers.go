@@ -4,9 +4,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/ironsworn/ironsworn/internal/engine"
-	"github.com/ironsworn/ironsworn/internal/model"
-	"github.com/ironsworn/ironsworn/internal/store"
+	"github.com/ironsworn/ironsworn-backend/internal/engine"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/store"
 )
 
 // TestStore creates an in-memory SQLite store for testing.

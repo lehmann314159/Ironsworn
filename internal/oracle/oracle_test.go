@@ -3,8 +3,8 @@ package oracle
 import (
 	"testing"
 
-	"github.com/ironsworn/ironsworn/internal/engine"
-	"github.com/ironsworn/ironsworn/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/engine"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
 )
 
 func TestAskYesNo(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
-	"github.com/ironsworn/ironsworn/internal/handler"
+	"github.com/ironsworn/ironsworn-backend/internal/handler"
 )
 
 // New creates and configures the Chi router with all routes.

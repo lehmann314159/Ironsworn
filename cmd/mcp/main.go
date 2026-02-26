@@ -6,8 +6,8 @@ import (
 
 	"github.com/mark3labs/mcp-go/server"
 
-	"github.com/ironsworn/ironsworn/internal/mcpserver"
-	"github.com/ironsworn/ironsworn/internal/store"
+	"github.com/ironsworn/ironsworn-backend/internal/mcpserver"
+	"github.com/ironsworn/ironsworn-backend/internal/store"
 )
 
 func main() {

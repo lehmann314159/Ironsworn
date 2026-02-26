@@ -1,7 +1,7 @@
 package engine
 
 import (
-	"github.com/ironsworn/ironsworn/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
 )
 
 func (mr *MoveRegistry) registerFateMoves() {

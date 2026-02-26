@@ -3,7 +3,7 @@ package engine
 import (
 	"fmt"
 
-	"github.com/ironsworn/ironsworn/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
 )
 
 // BurnMomentum burns momentum to replace the action score with the momentum value.

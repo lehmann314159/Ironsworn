@@ -1,4 +1,4 @@
-# Ironsworn Go Backend
+# ironsworn-backend
 
 A Go backend for the [Ironsworn](https://www.ironswornrpg.com/) tabletop RPG (solo play mode). Provides a REST API for game state management, an MCP server for LLM integration, and a structured game log designed for RAG corpus generation.
 

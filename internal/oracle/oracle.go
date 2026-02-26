@@ -3,8 +3,8 @@ package oracle
 import (
 	"fmt"
 
-	"github.com/ironsworn/ironsworn/internal/engine"
-	"github.com/ironsworn/ironsworn/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/engine"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
 )
 
 // AskYesNo rolls on the oracle for a yes/no question with the given likelihood.

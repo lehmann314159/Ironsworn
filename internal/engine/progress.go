@@ -3,7 +3,7 @@ package engine
 import (
 	"fmt"
 
-	"github.com/ironsworn/ironsworn/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
 )
 
 // MarkProgress marks progress on a track and returns the ticks added.

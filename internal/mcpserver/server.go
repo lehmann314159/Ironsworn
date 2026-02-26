@@ -8,11 +8,11 @@ import (
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
 
-	"github.com/ironsworn/ironsworn/internal/engine"
-	"github.com/ironsworn/ironsworn/internal/gamelog"
-	"github.com/ironsworn/ironsworn/internal/model"
-	"github.com/ironsworn/ironsworn/internal/oracle"
-	"github.com/ironsworn/ironsworn/internal/store"
+	"github.com/ironsworn/ironsworn-backend/internal/engine"
+	"github.com/ironsworn/ironsworn-backend/internal/gamelog"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/oracle"
+	"github.com/ironsworn/ironsworn-backend/internal/store"
 )
 
 // Server wraps the MCP server with Ironsworn game logic.

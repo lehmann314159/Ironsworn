@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ironsworn/ironsworn/internal/model"
+	"github.com/ironsworn/ironsworn-backend/internal/model"
 )
 
 func testStore(t *testing.T) *SQLiteStore {
